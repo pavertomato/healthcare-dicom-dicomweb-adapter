@@ -48,7 +48,6 @@ compileJava {
 repositories {
     mavenCentral()
     maven { url 'http://www.dcm4che.org/maven2/' }
-    maven { url 'https://jitpack.io' }
 }
 
 dependencies {
